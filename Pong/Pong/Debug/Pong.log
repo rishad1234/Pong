@@ -1,0 +1,21 @@
+﻿Build started 12/21/2017 4:08:00 AM.
+     1>Project "E:\1.2\sd lab\sd lab graphics\Pong\Pong\Pong.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Pong.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1.2\sd lab\sd lab graphics\Pong\Debug\Pong.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Pong.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\1.2\sd lab\sd lab graphics\Pong\Debug\Pong.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1.2\sd lab\sd lab graphics\Pong\Debug\Pong.lib" /MACHINE:X86 Debug\iMain.obj
+         LINK : E:\1.2\sd lab\sd lab graphics\Pong\Debug\Pong.exe not found or not built by the last incremental link; performing full link
+         Pong.vcxproj -> E:\1.2\sd lab\sd lab graphics\Pong\Debug\Pong.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\1.2\sd lab\sd lab graphics\Pong\Debug\Pong.exe;#1" /manifest Debug\Pong.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Pong.unsuccessfulbuild".
+         Touching "Debug\Pong.lastbuildstate".
+     1>Done Building Project "E:\1.2\sd lab\sd lab graphics\Pong\Pong\Pong.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.18
